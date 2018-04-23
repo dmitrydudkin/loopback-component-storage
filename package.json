@@ -1,5 +1,5 @@
 {
-  "name": "loopback-component-storage-fineuploader",
+  "name": "loopback-component-storage",
   "description": "Loopback Storage Service fixed for Fine Uploader",
   "engines": {
     "node": ">=4"
